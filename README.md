@@ -23,9 +23,11 @@ API link: https://openweathermap.org/api
 
 
 
-## Usage
+## Instructions to use:
 
-To use this weather app, simply search the city name. If the name is wrong or the city could not be found it shows and error message to try again with the correct city name.
+To use this weather app, simply search the city name and the weather details will be displayed.
+
+If the city name is wrong or the city could not be found it shows an error message to try again with the correct city name.
     
 ## Lessons Learned
 
